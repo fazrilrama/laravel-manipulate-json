@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Item 1",
+        "warehouse_id": 101,
+        "rented_space": 500
+    },
+    {
+        "id": 2,
+        "name": "Item 2",
+        "warehouse_id": 102,
+        "rented_space": 1500
+    },
+    {
+        "id": 3,
+        "name": "Item 3",
+        "warehouse_id": 101,
+        "rented_space": 300
+    }
+]
